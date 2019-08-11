@@ -1,2 +1,2 @@
 # ICU
-A predictive model for in-hospital mortality in ICU patients
+A logistic regression predictive model for in-hospital mortality in ICU patients
