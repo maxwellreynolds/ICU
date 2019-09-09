@@ -1,2 +1,2 @@
-# ICU
-I performed an exploratory data analysis and created a logistic regression predictive model for in-hospital mortality in ICU patients
+# ICU In-hospital Mortality Prediction
+I performed an exploratory data analysis and created logistic regression and K-Nearest Neighbors predictive models for in-hospital mortality in Intensive Care Unit patients
